@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sripali Manimekala.</h1>
 <h3 align="center">Passionate and dedicated computer science undergraduate embarking on a journey to become a skilled software engineer. Diving into the realms of full stack development, machine learning, and AI, this repository showcases my exploration and projects in these exciting fields. 🚀💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sripalimanimekala&label=Profile%20views&color=0e75b6&style=flat" alt="sripalimanimekala" /> </p>
-
 - 🌱 I’m currently learning **MERN, JavaScript, React and Node.**
 
 - 💬 Ask me about **Java, SQL and Machine Learning.**
